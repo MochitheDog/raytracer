@@ -13,3 +13,5 @@ Ray tracer in OpenGL for sphere rendering for a course project
 - Super sampling
 - Reflections
 - a plane surface
+
+![pretty render](https://raw.githubusercontent.com/MochitheDog/raytracer/master/mine.bmp)
